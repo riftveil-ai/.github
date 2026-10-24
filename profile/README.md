@@ -1,6 +1,4 @@
-# Riftveil
-
-**AI will never be held accountable. You will.**
+# AI will never be held accountable. You will.
 
 When a decision prepared with AI is questioned, nobody holds the AI assistant to account. They hold the person who signed. Riftveil is the human oversight layer between an AI output and your signature: an open protocol that challenges the output before you sign, never validates it, and leaves a record you can defend.
 
