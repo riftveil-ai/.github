@@ -24,9 +24,9 @@ Record
 - Independence: not stated by the user, to be confirmed by the signer
 ```
 
-## AttestScope · coming here soon
+## AttestScope
 
-The open format for the *human accountability record*: what the signer checked, what they left open and to whom, what they decided, and proof that nothing has changed since. Its repository launches with Ed25519 signatures on records: anyone will be able to verify a record on their own, without going through the issuer. The format: [attestscope.ai](https://attestscope.ai)
+The open format for the *human accountability record*: what the signer checked, what they left open and to whom, what they decided, and proof that nothing has changed since. Its specification defines Ed25519 signatures on records: once an issuer signs, anyone can verify a record on their own, without going through the issuer. Specification: [attestscope-spec](https://github.com/riftveil-ai/attestscope-spec) · The format: [attestscope.ai](https://attestscope.ai)
 
 ## Why open
 
