@@ -38,4 +38,4 @@ Online: [riftveil.ai](https://riftveil.ai) · In your AI assistant: [the protoco
 
 ## The method
 
-Riftveil implements the method set out in *The Rift*, a forthcoming book by Olivier Laurent (2026). The method is built on the Human Frontier model: [humanfrontier.ai](https://humanfrontier.ai) · [hello@riftveil.ai](mailto:hello@riftveil.ai)
+Riftveil implements the method set out in *The Rift*, a book by Olivier Laurent (2026). The method is built on the Human Frontier model: [humanfrontier.ai](https://humanfrontier.ai) · [hello@riftveil.ai](mailto:hello@riftveil.ai)
